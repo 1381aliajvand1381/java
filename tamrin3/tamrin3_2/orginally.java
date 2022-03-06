@@ -1,0 +1,53 @@
+package tamrin3.tamrin3_2;
+
+public class orginally {
+    public static void main(String args[]) {
+    tedad_vahed dars=new tedad_vahed();
+    dars.riazi_1();
+    dars.physic1();
+    dars.mabani_pc();
+    dars.riazi_2();
+    dars.physic2();
+    dars.difransiel();
+    dars.barname_sazi();
+    dars.gosaste();
+    dars.madar_1();
+    dars.sakhteman_dade();
+    dars.zaban_tahkasosi();
+    dars.amar_mohandesi();
+    dars.riazi_mohandesi();
+    dars.zaban_mashin();
+    dars.madar_logic();
+    dars.madar_electric();
+    dars.tarahi_algoritm();
+    dars.zakhire_bazyabi();
+    dars.tarahi_barname();
+    dars.soft_ware_1();
+    dars.nazarie_zaban();
+    dars.hoosh_masnooi();
+    dars.memari_pc();
+    dars.shiveh_erae();
+    dars.tarahi_paygah_dade();
+    dars.shabake_pc();
+    dars.system_amel();
+    dars.riz_pardazandeh1();
+    dars.soft_ware2();
+    dars.tarahi_compailer();
+    dars.proje();
+    dars.kar_amoozi();    
+    omoomi omoomi_dars=new omoomi();
+    omoomi_dars.andishe1();
+    omoomi_dars.andishe2();
+    omoomi_dars.akhlagh();
+    omoomi_dars.enghelab();
+    omoomi_dars.tarikh_tahlili();
+    omoomi_dars.tarikh_farhang();
+    omoomi_dars.tafsir_ghoran();
+    omoomi_dars.farsi();
+    omoomi_dars.zaban_khareji();
+    omoomi_dars.tarbiat_1();
+    omoomi_dars.tarbiat_2();
+    omoomi_dars.gherat();
+    omoomi_dars.danesh_khanevade();
+    omoomi_dars.omomi();
+}}
